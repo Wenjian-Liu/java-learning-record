@@ -8,12 +8,6 @@
 
 ---
 
-> 📌 目标：用 1 年完成「Java 后端 + 德国求职落地」
-📢 所有学习记录、代码、项目逐步沉淀进本仓库
-
-
----
-
 📅 Progress Log
 
 Day	Date	Topic	Status	Notes
