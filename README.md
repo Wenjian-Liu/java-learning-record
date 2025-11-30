@@ -1,9 +1,9 @@
 🚀 Java-Learning-Record
 
 🔥 Streak Days: 3 / 365
-⏳ Java Learning Hours: 4.5h
-📦 Total Commits: 6
-🎯 Current Stage: 面向对象 OOP 学习中
+⏳ Java Learning Hours: 6h
+📦 Total Commits: 7
+🎯 Current Stage: 面向对象 OOP （封装 & Getter/Setter ✔）
 
 
 ---
@@ -14,22 +14,20 @@ Day	Date	Topic	Status	Notes
 
 Day1	11/27	OOP基础	✔	类 & 对象
 Day2	11/28	课53笔记	✔	notes已commit
-Day3	11/29	封装+getter/setter	⏳	计划执行中
+Day3	11/29	封装+getter/setter	✔	代码已commit
 
 
 ---
 
-📌 下一目标任务
+📌 当前学习目标
 
-当前学习重点
-
+[x] 封装、Getter/Setter
 [ ] 54-58 面向对象核心（本周目标🔥）
 
 
 ---
 
-📍 目标：持续提升后端开发能力  
-🎯 技术方向：Java / Spring Boot / MySQL / REST API
+🎯 技术发展路线：Java / Spring Boot / MySQL / REST API
 
 ---
 
