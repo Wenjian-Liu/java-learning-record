@@ -1,9 +1,9 @@
 🚀 Java-Learning-Record
 
-🔥 Streak Days: 3 / 365
+🔥 Streak Days: 4 / 365
 ⏳ Java Learning Hours: 6h
-📦 Total Commits: 7
-🎯 Current Stage: 面向对象 OOP （封装 & Getter/Setter ✔）
+📦 Total Commits: 8
+🎯 Current Stage: 面向对象 OOP
 
 
 ---
@@ -15,13 +15,13 @@ Day	Date	Topic	Status	Notes
 Day1	11/27	OOP基础	✔	类 & 对象
 Day2	11/28	课53笔记	✔	notes已commit
 Day3	11/29	封装+getter/setter	✔	代码已commit
+Day4  12/01 LeetCode - FizzBuzz 	✔	代码已commit
 
 
 ---
 
 📌 当前学习目标
 
-[x] 封装、Getter/Setter
 [ ] 54-58 面向对象核心（本周目标🔥）
 
 
