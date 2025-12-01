@@ -1,7 +1,7 @@
 🚀 Java-Learning-Record
 
 🔥 Streak Days: 4 / 365
-⏳ Java Learning Hours: 6h
+⏳ Java Learning Hours: 6.8h
 📦 Total Commits: 8
 🎯 Current Stage: 面向对象 OOP
 
@@ -15,14 +15,13 @@ Day	Date	Topic	Status	Notes
 Day1	11/27	OOP基础	✔	类 & 对象
 Day2	11/28	课53笔记	✔	notes已commit
 Day3	11/29	封装+getter/setter	✔	代码已commit
-Day4  12/01 LeetCode - FizzBuzz 	✔	代码已commit
+Day4  12/01 LeetCode - FizzBuzz 	✔	new → LeetCode/LC412
 
 
 ---
 
-📌 当前学习目标
-
-[ ] 54-58 面向对象核心（本周目标🔥）
+> 本周目标：OOP核心完成 + LeetCode持续巩固  
+> 📌 预计每日投入：60–120 min
 
 
 ---
