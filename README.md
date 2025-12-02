@@ -1,9 +1,9 @@
 🚀 Java-Learning-Record
 
-🔥 Streak Days: 5 / 365
-⏳ Java Learning Hours: 7.8h
-📦 Total Commits: 9
-🎯 Current Stage: 面向对象 OOP + 基础语法补全
+🔥 Streak Days: 5 / 365  
+⏳ Java Learning Hours: 7.8h  
+📦 Total Commits: 9  
+🎯 Current Stage: 面向对象 OOP + 基础语法补全  
 
 
 ---
@@ -12,11 +12,11 @@
 
 Day	Date	Topic	Status	Notes
 
-Day1	11/27	OOP基础	✔	类 & 对象
-Day2	11/28	第53课笔记	✔	notes已commit
-Day3	11/29	封装+Getter/Setter	✔	代码已commit
-Day4  12/01 LeetCode - FizzBuzz 	✔	new → LeetCode/LC412
-Day5  12/02 基础语法补课（关系+逻辑+三元）  ✔	basics/Day1_Operators已commit
+Day1	11/27	OOP基础	✔	类 & 对象  
+Day2	11/28	第53课笔记	✔	notes已commit  
+Day3	11/29	封装+Getter/Setter	✔	代码已commit  
+Day4  12/01 LeetCode - FizzBuzz 	✔	new → LeetCode/LC412  
+Day5  12/02 基础语法补课（关系+逻辑+三元）  ✔	basics/Day1_Operators已commit  
 
 
 ---
