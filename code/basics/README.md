@@ -39,22 +39,23 @@ This is one of my first practical mini-projects built while learning Java fundam
 
 ```mermaid
 flowchart TD
-    A[Start] --> B[Input Height (cm)]
-    B --> C[Input Weight (kg)]
+    A[Start] --> B[Input Height in cm]
+    B --> C[Input Weight in kg]
     C --> D[Input Age]
     D --> E[Input Gender]
     E --> F[Input Activity Level]
     F --> G[Calculate BMI]
     G --> H{BMI Category}
-    H -->|<18.5| I[Underweight]
-    H -->|18.5-25| J[Normal]
-    H -->|25-30| K[Overweight]
-    H -->|>30| L[Obese]
-    I --> M[Set Goal: Gain Muscle]
-    J --> N[Set Goal: Maintain]
-    K --> O[Set Goal: Lose Weight]
+    H --> I[Underweight]
+    H --> J[Normal]
+    H --> K[Overweight]
+    H --> L[Obese]
+    I --> M[Goal: Gain Muscle]
+    J --> N[Goal: Maintain]
+    K --> O[Goal: Lose Weight]
     L --> O
     M --> P[Print Results]
     N --> P
     O --> P
     P --> Q[End]
+```
