@@ -30,7 +30,7 @@
 | Day7 | 12/04  | switch Statement (Practical Mini Project: Healthy BMI, Max of Three Numbers) | ✔ | `HeimaHealthy.java` initial version completed |  
 | Day8 | 12/05  | 黑马重构01 + heimaHealthy重构小改               | ✔ | Code committed |  
 | Day9 | 12/06  | LeetCode - Roman to Integer                  | ✔ | new → LeetCode/LC013 |  
-| Day10 | 12/07  | HeimaHealthy 重构与封装优化                  | ✔ | projects/heimaHealthy 已提交 |  
+| Day10 | 12/07  | HeimaHealthy 重构与封装优化                  | ✔ | heimaHealthy 已提交 |  
 
 ---
 
