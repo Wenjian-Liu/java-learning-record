@@ -20,11 +20,11 @@ This repo records my daily Java learning journey, including:
 
 📊 Learning Stats
 
-🔥 Current Streak: Day 12 / 365
+🔥 Current Streak: Day 13 / 365
 
-📦 Total Commits: 18
+📦 Total Commits: 20
 
-⏳ Total Learning Time: 14h
+⏳ Total Learning Time: 15h
 
 🧭 Current Stage: Methods & Arrays
 
@@ -48,6 +48,7 @@ This repo records my daily Java learning journey, including:
 | Day10 | 12/07 | 封装优化 BMI | ✔ | Extracted methods |  
 | Day11 | 12/08 | 输入封装 + switch 优化 | ✔ | readValue 方法 |  
 | Day12 | 12/09 | 方法声明与调用 + 数组基础 | ✔ | return vs void、数组初始化三种写法 |  
+| Day13 | 12/10 | 数组遍历（while）+ 可变参数 | ✔ | while 遍历数组、字符串拼接成 [1,2,3]、varargs 本质为数组 |  
 
 🧩 Featured Mini Projects  
 🥗 1. Healthy BMI Calculator
