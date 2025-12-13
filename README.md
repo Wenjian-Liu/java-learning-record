@@ -33,11 +33,11 @@ This repo records my daily Java learning journey, including:
 
 📊 Learning Stats
 
-🔥 Current Streak: Day 15 / 365
+🔥 Current Streak: Day 16 / 365
 
-📦 Total Commits: 26
+📦 Total Commits: 27
 
-⏳ Total Learning Time: 16.8h
+⏳ Total Learning Time: 17.5h
 
 🧭 Current Stage: Methods & Arrays
 
@@ -64,7 +64,7 @@ This repo records my daily Java learning journey, including:
 | Day13 | 12/10 | 数组遍历（while）+ 可变参数 | ✔ | while 遍历数组、字符串拼接成 [1,2,3]、varargs 本质为数组 |  
 | Day14 | 12/11 | 构造方法 + 对象创建流程 | ✔ | 构造方法作用、this、return执行流、对象赋值过程 |  
 | Day15 | 12/12 | 继承（extends）+ 方法复写（重写 override） | ✔ | 父类/子类结构、方法重写规则、super 的使用 |  
-| Day16 | 12/13 | - | ✔ | - |  
+| Day16 | 12/13 | 多态（Polymorphism） | ✔ | 向上转型、方法动态绑定、instanceof + 向下转型（类型转换） |  
 | Day17 | 12/14 | Travel Mode | ✔ | 今日旅行，保持打卡（见 travel-log/12-14.md） |  
 | Day18 | 12/15 | Travel Mode | ✔ | 今日旅行，保持打卡（见 travel-log/12-15.md） |  
 | Day19 | 12/16 | Travel Mode | ✔ | 今日旅行，保持打卡（见 travel-log/12-16.md） |  
