@@ -69,7 +69,7 @@ This repo records my daily Java learning journey, including:
 | Day18 | 12/15 | 面向對象：父類構造方法(Travel Mode) | ✔ | super 调用、构造器链、父类先初始化原则 |  
 | Day19 | 12/16 | Travel Mode | ✔ | 無代碼產出，為後續學習保持精力 |  
 | Day20 | 12/17 | 面向對象：權限修飾符(Travel Mode) | ✔ | private / protected / public 可见性范围，强化封装与继承边界 |  
-| Day21 | 12/18 | Travel Mode | ✔ | 今日旅行，保持打卡（见 travel-log/12-18.md） |  
+| Day21 | 12/18 | Travel Mode | ✔ | 無代碼產出，為後續學習保持精力 |  
 | Day22 | 12/19 | Travel Mode | ✔ | 今日旅行，保持打卡（见 travel-log/12-19.md） |  
 
 🧩 Featured Mini Projects  
