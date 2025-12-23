@@ -35,3 +35,7 @@ The system is structured into clear layers:
 
 ## Status
 - Completed as a learning-oriented OOP case following tutorial guidance
+
+## Refactor (2025/12/23)
+- Performed decoupling refactor by extracting responsibilities into smaller methods/classes.
+- Improved separation between UI, service, and DAO layers.
