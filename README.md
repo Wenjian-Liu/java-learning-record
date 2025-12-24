@@ -61,7 +61,7 @@ This repo records my daily Java learning journey, including:
 | Day23 | 12/20 | 面向对象复盘：Product 设计 | ✔ | 回顾继承、多态与构造器链，反思设计扩展性 |  
 | Day24 | 12/21 | 面向对象：工具类（Utility Class） | ✔ | static 方法复用、私有构造防实例化；角度↔弧度转换示例（未写代码） |  
 | Day25 | 12/22 | 面向对象综合案例：用户注册/登录 | ✔ | 需求分析→模型设计→DAO→Service→UI，理解分层架构与低耦合设计 |  
-| Day26 | 12/23 | 用户系统案例：解耦重构 | ✔ | 跟随视频进行 extract 重构与主流程调整，梳理层间依赖与调用链 |  
+| Day26 | 12/23 | 用户系统案例：解耦重构 | ✔ |  extract 重构与主流程调整，梳理层间依赖与调用链 |  
 
 🧩 Featured Mini Projects  
 🥗 1. Healthy BMI Calculator
