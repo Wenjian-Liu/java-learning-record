@@ -20,11 +20,11 @@ This repo records my daily Java learning journey, including:
 
 📊 Learning Stats
 
-🔥 Current Streak: Day 27/ 365
+🔥 Current Streak: Day 28/ 365
 
 📦 Total Commits: 37
 
-⏳ Total Learning Time: 24.8h
+⏳ Total Learning Time: 25.3h
 
 🧭 Current Stage: Methods & Arrays
 
@@ -63,6 +63,7 @@ This repo records my daily Java learning journey, including:
 | Day25 | 12/22 | 面向对象综合案例：用户注册/登录 | ✔ | 需求分析→模型设计→DAO→Service→UI，理解分层架构与低耦合设计 |  
 | Day26 | 12/23 | 用户系统案例：解耦重构 | ✔ |  extract 重构与主流程调整，梳理层间依赖与调用链 |  
 | Day27 | 12/24 | Overriding Object.equals | ✔ | Overrode `equals` method to compare `Person` objects by `name` and `age` |  
+| Day28 | 12/25 | Object.equals Consolidation | ✔ | Reinforced equals semantics: reference vs value equality, type check + cast workflow, and common pitfalls (== vs equals) |  
 
 🧩 Featured Mini Projects  
 🥗 1. Healthy BMI Calculator
