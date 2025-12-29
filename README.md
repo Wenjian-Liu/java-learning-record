@@ -20,11 +20,11 @@ This repo records my daily Java learning journey, including:
 
 📊 Learning Stats
 
-🔥 Current Streak: Day 31/ 365
+🔥 Current Streak: Day 32/ 365
 
-📦 Total Commits: 40 (approx.)
+📦 Total Commits: 42 (approx.)
 
-⏳ Total Learning Time: ~26.5h
+⏳ Total Learning Time: ~27.3h
 
 🧭 Current Stage: Core OOP & Object Model (Consolidation Phase)
 
@@ -67,6 +67,7 @@ This repo records my daily Java learning journey, including:
 | Day29 | 12/26 | Overriding hashCode with equals | ✔ | Implemented `hashCode()` consistent with `equals()` using `Objects.hash`, verified behavior via a small demo |  
 | Day30 | 12/27 | Scanner 输入处理复盘 | ✔ | Rewrote Scanner demo for int/double input; fixed variable shadowing issue, clarified type boundaries, and identified misuse of instanceof for primitive input validation |  
 | Day31 | 12/28 | Overriding toString() | ✔ | Learned Object.toString() semantics, created ToStringDemo, and overrode toString() in Person for readable output |  
+| Day32 | 12/29 | Collections: Collection API + List vs Set | ✔ | Practiced core Collection methods (add/size/remove/isEmpty/clear/contains/toArray) and understood key differences between List and Set; skipped advanced toArray(String[]::new) for now |  
 
 🧩 Featured Mini Projects  
 🥗 1. Healthy BMI Calculator
