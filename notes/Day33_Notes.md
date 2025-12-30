@@ -3,5 +3,5 @@
 Status: Rest Day
 
 Notes:
-- No Java study today.
-- Took a break to consolidate recent Collection learning and avoid cognitive overload.
+- Participated in a Pokémon TCG tournament and earned 30 points.
+- Took a planned rest day to recharge and maintain long-term learning sustainability.
