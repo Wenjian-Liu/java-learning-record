@@ -20,11 +20,11 @@ This repo records my daily Java learning journey, including:
 
 📊 Learning Stats
 
-🔥 Current Streak: Day 33/ 365
+🔥 Current Streak: Day 34/ 365
 
-📦 Total Commits: 42 (approx.)
+📦 Total Commits: 45 (approx.)
 
-⏳ Total Learning Time: ~27.3h
+⏳ Total Learning Time: ~27.8h
 
 🧭 Current Stage: Core OOP & Object Model (Consolidation Phase)
 
@@ -69,6 +69,7 @@ This repo records my daily Java learning journey, including:
 | Day31 | 12/28 | Overriding toString() | ✔ | Learned Object.toString() semantics, created ToStringDemo, and overrode toString() in Person for readable output |  
 | Day32 | 12/29 | Collections: Collection API + List vs Set | ✔ | Practiced core Collection methods (add/size/remove/isEmpty/clear/contains/toArray) and understood key differences between List and Set; skipped advanced toArray(String[]::new) for now |  
 | Day33 | 12/30 | Rest Day | ✔ | Pokémon TCG tournament participation (earned 30 points) + recharge |   
+| Day34 | 12/31 | Collections: 3 traversal methods | ✔ | Practiced iterating a Collection via Iterator, enhanced for-loop, and Lambda `forEach`; briefly introduced method reference `::` (not fully digested yet) |  
 
 🧩 Featured Mini Projects  
 🥗 1. Healthy BMI Calculator
