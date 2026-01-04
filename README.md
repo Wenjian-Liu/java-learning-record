@@ -73,7 +73,7 @@ This repo records my daily Java learning journey, including:
 | Day35 | 01/01 | ConcurrentModificationException & Traversal Differences | ✔ | Understood fail-fast behavior during iteration; compared Iterator / enhanced for / Lambda forEach; learned safe removal via Iterator.remove() |  
 | Day36 | 01/02 | List traversal & safe removal | ✔ | Implemented reverse index removal and iterator removal for Integer and String lists; debugged remove(int) vs remove(Object) issues |  
 | Day37 | 01/03 | List-specific operations | ✔ | Practiced List core methods (add with index, remove by index, set, get); reinforced understanding of index-based access and return values |  
-| Day37 | 01/04 | ArrayList & LinkedList principles | ✔ | Studied ArrayList resizing and data shifting logic and LinkedList node-based structure; implemented demos to understand performance differences and usage scenarios |  
+| Day37 | 01/04 | ArrayList & LinkedList internals; LinkedList queue/stack demo | ✔ | Learned ArrayList and LinkedList internal principles; implemented and uploaded LinkedList demos using FIFO (addLast/removeFirst) and LIFO (push/pop) |  
 
 🧩 Featured Mini Projects  
 🥗 1. Healthy BMI Calculator
