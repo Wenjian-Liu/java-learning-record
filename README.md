@@ -26,7 +26,7 @@ This repo records my daily Java learning journey, including:
 
 ⏳ Total Learning Time: ~32.5h
 
-🧭 Current Stage: Core OOP & Object Model (Consolidation Phase)
+🧭 Current Stage: Collections Framework + Console CRUD Mini Projects (Consolidation Phase)
 
 🛠 Tech Route: Core Java → MySQL/JDBC → Spring Boot → Backend Projects
 
@@ -73,8 +73,8 @@ This repo records my daily Java learning journey, including:
 | Day35 | 01/01 | ConcurrentModificationException & Traversal Differences | ✔ | Understood fail-fast behavior during iteration; compared Iterator / enhanced for / Lambda forEach; learned safe removal via Iterator.remove() |  
 | Day36 | 01/02 | List traversal & safe removal | ✔ | Implemented reverse index removal and iterator removal for Integer and String lists; debugged remove(int) vs remove(Object) issues |  
 | Day37 | 01/03 | List-specific operations | ✔ | Practiced List core methods (add with index, remove by index, set, get); reinforced understanding of index-based access and return values |  
-| Day37 | 01/04 | ArrayList & LinkedList internals; LinkedList queue/stack demo | ✔ | Learned ArrayList and LinkedList internal principles; implemented and uploaded LinkedList demos using FIFO (addLast/removeFirst) and LIFO (push/pop) |  
-| Day38 | 01/05 | ArrayList movie management system (CRUD, console-based) | ✔ | Built a console-based movie management system using ArrayList; followed tutorial for overall structure, then modified and completed logic; implemented add, remove, update, query and list operations |  
+| Day38 | 01/04 | ArrayList & LinkedList internals; LinkedList queue/stack demo | ✔ | Learned ArrayList and LinkedList internal principles; implemented and uploaded LinkedList demos using FIFO (addLast/removeFirst) and LIFO (push/pop) |  
+| Day39 | 01/05 | ArrayList movie management system (CRUD, console-based) | ✔ | Built a console-based movie management system using ArrayList; followed tutorial for overall structure, then modified and completed logic; implemented add, remove, update, query and list operations |  
 
 🧩 Featured Mini Projects  
 🥗 1. Healthy BMI Calculator
