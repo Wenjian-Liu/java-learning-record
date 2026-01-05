@@ -129,8 +129,6 @@ H --> I[Deploy to Cloud & Build Portfolio]
 
 📌 Next Steps
 
- 完成 OOP 三大特性
-
  深入数组 + 方法练习
 
  异常处理初学
