@@ -92,8 +92,7 @@ BMI 计算
 
 BMR / TDEE 计算
 
-营养配比建议
-
+营养配比建议  
 📂 code/basics/HeimaHealthy.java
 
 🔢 2. Max of Three Numbers
@@ -108,13 +107,11 @@ BMR / TDEE 计算
 
 🎬 4. Movie Management System (Console CRUD)
 
-ArrayList storage
-
-Add / remove / update / query / list
-
-Simple menu loop + Scanner input
-
+ArrayList storage  
+Add / remove / update / query / list  
+Simple menu loop + Scanner input  
 📂 code/collections/movie-system/
+
 
 🎯 Roadmap (2025–2027)
 ```mermaid
