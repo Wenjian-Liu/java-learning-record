@@ -20,11 +20,11 @@ This repo records my daily Java learning journey, including:
 
 📊 Learning Stats
 
-🔥 Current Streak: Day 38/ 365
+🔥 Current Streak: Day 39/ 365
 
-📦 Total Commits: 49 (approx.)
+📦 Total Commits: 52 (approx.)
 
-⏳ Total Learning Time: ~31.5h
+⏳ Total Learning Time: ~32.5h
 
 🧭 Current Stage: Core OOP & Object Model (Consolidation Phase)
 
@@ -74,6 +74,7 @@ This repo records my daily Java learning journey, including:
 | Day36 | 01/02 | List traversal & safe removal | ✔ | Implemented reverse index removal and iterator removal for Integer and String lists; debugged remove(int) vs remove(Object) issues |  
 | Day37 | 01/03 | List-specific operations | ✔ | Practiced List core methods (add with index, remove by index, set, get); reinforced understanding of index-based access and return values |  
 | Day37 | 01/04 | ArrayList & LinkedList internals; LinkedList queue/stack demo | ✔ | Learned ArrayList and LinkedList internal principles; implemented and uploaded LinkedList demos using FIFO (addLast/removeFirst) and LIFO (push/pop) |  
+| Day38 | 01/05 | ArrayList movie management system (CRUD, console-based) | ✔ | Built a console-based movie management system using ArrayList; followed tutorial for overall structure, then modified and completed logic with AI assistance; implemented add, remove, update, query and list operations |  
 
 🧩 Featured Mini Projects  
 🥗 1. Healthy BMI Calculator
