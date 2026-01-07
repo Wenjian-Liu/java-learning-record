@@ -20,11 +20,11 @@ This repo records my daily Java learning journey, including:
 
 📊 Learning Stats
 
-🔥 Current Streak: Day 40/ 365
+🔥 Current Streak: Day 41/ 365
 
-📦 Total Commits: 52 (approx.)
+📦 Total Commits: 54 (approx.)
 
-⏳ Total Learning Time: ~33h
+⏳ Total Learning Time: ~34h
 
 🧭 Current Stage: Collections Framework + Console CRUD Mini Projects (Consolidation Phase)
 
@@ -76,6 +76,7 @@ This repo records my daily Java learning journey, including:
 | Day38 | 01/04 | ArrayList & LinkedList internals; LinkedList queue/stack demo | ✔ | Learned ArrayList and LinkedList internal principles; implemented and uploaded LinkedList demos using FIFO (addLast/removeFirst) and LIFO (push/pop) |  
 | Day39 | 01/05 | ArrayList movie management system (CRUD, console-based) | ✔ | Followed tutorial for structure; completed CRUD logic and fixed removal loop (i--) to avoid skipping; added query-by-name helper and update flow; implemented add, remove, update, query and list operations |  
 | Day40 | 01/06 | Set overview: HashSet, LinkedHashSet, TreeSet | ✔ | Learned Set collection characteristics (no duplicates, no index); compared HashSet (unordered), LinkedHashSet (insertion-order), and TreeSet (sorted, natural ordering) |  
+| Day41 | 01/07 | Set internals & custom object deduplication | ✔ | Learned HashSet底层原理；implemented custom object de-duplication via overriding equals() and hashCode() in Student |  
 
 🧩 Featured Mini Projects  
 🥗 1. Healthy BMI Calculator
