@@ -20,7 +20,7 @@ This repo records my daily Java learning journey, including:
 
 📊 Learning Stats
 
-🔥 Current Streak: Day 41/ 365
+🔥 Current Streak: Day 42/ 365
 
 📦 Total Commits: 54 (approx.)
 
@@ -77,6 +77,7 @@ This repo records my daily Java learning journey, including:
 | Day39 | 01/05 | ArrayList movie management system (CRUD, console-based) | ✔ | Followed tutorial for structure; completed CRUD logic and fixed removal loop (i--) to avoid skipping; added query-by-name helper and update flow; implemented add, remove, update, query and list operations |  
 | Day40 | 01/06 | Set overview: HashSet, LinkedHashSet, TreeSet | ✔ | Learned Set collection characteristics (no duplicates, no index); compared HashSet (unordered), LinkedHashSet (insertion-order), and TreeSet (sorted, natural ordering) |  
 | Day41 | 01/07 | Set internals & custom object deduplication | ✔ | Learned HashSet底层原理；implemented custom object de-duplication via overriding equals() and hashCode() in Student |  
+| Day42 | 01/08 | Rest Day | ✔ | No Java study today; paused for recovery and schedule adjustment |  
 
 🧩 Featured Mini Projects  
 🥗 1. Healthy BMI Calculator
