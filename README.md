@@ -1,4 +1,4 @@
-🌟 Java Learning Journey — From Zero to Backend Engineer
+🌟 Java Learning Journey — Building Solid Backend Foundations 
 <p align="center"> <img src="https://img.shields.io/badge/Java-Progress-brightgreen?style=for-the-badge"> <img src="https://img.shields.io/badge/365--Day%20Challenge-In%20Progress-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/LeetCode-Started-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/GitHub-Active%20Learning-success?style=for-the-badge"> </p>
 🚀 About This Repository
 
@@ -8,9 +8,11 @@ This repo records my daily Java learning journey, including:
 
 🔹 OOP (Encapsulation, Inheritance, Polymorphism)
 
-🔹 Methods, Arrays, Exception Handling
+🔹 Methods & Arrays
 
-🔹 Mini Projects
+🔹 Collections Framework
+
+🔹 Console-based Mini Projects
 
 🔹 LeetCode Practice
 
@@ -20,13 +22,13 @@ This repo records my daily Java learning journey, including:
 
 📊 Learning Stats
 
-🔥 Current Streak: Day 44/ 365
+🔥 Current Streak: Day 45/ 365
 
 📦 Total Commits: 55 (approx.)
 
-⏳ Total Learning Time: ~36h
+⏳ Total Learning Time: ~36.5h
 
-🧭 Current Stage: Collections Framework + Console CRUD Mini Projects (Consolidation Phase)
+🧭 Current Stage: Collections Framework + Console CRUD Mini Projects (Consolidation Phase, focusing on data structures, traversal, and safe modification)
 
 🛠 Tech Route: Core Java → MySQL/JDBC → Spring Boot → Backend Projects
 
@@ -68,7 +70,7 @@ This repo records my daily Java learning journey, including:
 | Day30 | 12/27 | Scanner 输入处理复盘 | ✔ | Rewrote Scanner demo for int/double input; fixed variable shadowing issue, clarified type boundaries, and identified misuse of instanceof for primitive input validation |  
 | Day31 | 12/28 | Overriding toString() | ✔ | Learned Object.toString() semantics, created ToStringDemo, and overrode toString() in Person for readable output |  
 | Day32 | 12/29 | Collections: Collection API + List vs Set | ✔ | Practiced core Collection methods (add/size/remove/isEmpty/clear/contains/toArray) and understood key differences between List and Set; skipped advanced toArray(String[]::new) for now |  
-| Day33 | 12/30 | Rest Day | ✔ | Pokémon TCG tournament participation (earned 30 points) + recharge |   
+| Day33 | 12/30 | Rest Day | ✔ | No Java coding; took a planned rest day to recover before next learning cycle |  
 | Day34 | 12/31 | Collections: 3 traversal methods | ✔ | Practiced iterating a Collection via Iterator, enhanced for-loop, and Lambda `forEach`; briefly introduced method reference `::` (not fully digested yet) |  
 | Day35 | 01/01 | ConcurrentModificationException & Traversal Differences | ✔ | Understood fail-fast behavior during iteration; compared Iterator / enhanced for / Lambda forEach; learned safe removal via Iterator.remove() |  
 | Day36 | 01/02 | List traversal & safe removal | ✔ | Implemented reverse index removal and iterator removal for Integer and String lists; debugged remove(int) vs remove(Object) issues |  
@@ -80,6 +82,7 @@ This repo records my daily Java learning journey, including:
 | Day42 | 01/08 | Rest Day | ✔ | No Java study today; paused for recovery and schedule adjustment |  
 | Day43 | 01/09 | LinkedHashSet, TreeSet & Map basics | ✔ | Learned Set variants (LinkedHashSet, TreeSet) and started Map system overview; practiced core Map methods with HashMap demo |  
 | Day44 | 01/10 | Review of Basics codebase | ✔ | Reviewed and re-understood previously written Java basics code (arrays, methods, scanner, varargs, control flow); clarified earlier misconceptions through rereading own implementations |  
+| Day45 | 01/11 | Review of OOP codebase | ✔ | Reviewed and re-understood previously written OOP code (inheritance, constructors, override, polymorphism); reviewed inheritance and polymorphism implementations; clarified design-level questions around super calls, override necessity, and method semantics |  
 
 🧩 Featured Mini Projects  
 🥗 1. Healthy BMI Calculator
@@ -98,6 +101,7 @@ BMI 计算
 BMR / TDEE 计算
 
 营养配比建议  
+Focus: procedural refactoring → method extraction → basic layering awareness  
 📂 code/basics/HeimaHealthy.java
 
 🔢 2. Max of Three Numbers
@@ -151,5 +155,5 @@ H --> I[Deploy to Cloud & Build Portfolio]
 
 👩‍💻 Author
 
-Wenjian Liu — becoming a backend developer, one step a day.
+Wenjian Liu — building backend foundations, one step a day.
 持续更新中，欢迎一起成长 💛
