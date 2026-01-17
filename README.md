@@ -22,7 +22,7 @@ This repo records my daily Java learning journey, including:
 
 📊 Learning Stats
 
-🔥 Current Streak: Day 50/365
+🔥 Current Streak: Day 51/365
 
 📦 Total Commits: 63 (approx.)
 
@@ -88,6 +88,7 @@ This repo records my daily Java learning journey, including:
 | Day48 | 01/14 | Stream Terminal Operations | ✔ | Learned and practiced common Stream terminal operations (forEach, count, collect, toArray); completed StreamDemo4 to understand how streams produce final results and how terminal operations trigger execution |  
 | Day49 | 01/15 | Prerequisites: Varargs & Collections Utility | ✔ | Reviewed prerequisite concepts including varargs (int... args) semantics and the Collections utility class; clarified usage scenarios and common patterns as preparation for deeper Collection and Stream usage |  
 | Day50 | 01/16 | Collections review: List & Set | ✔ | Reviewed core Collection concepts with focus on List and Set; consolidated differences in structure, ordering, duplication rules, traversal methods, and typical usage scenarios |  
+| Day51 | 01/17 | File & IO overview | ✔ | Learned basic usage of File for file/directory operations and gained an overview of Java IO streams for reading and writing files; focused on conceptual understanding rather than hands-on coding |  
 
 🧩 Featured Mini Projects  
 🥗 1. Healthy BMI Calculator
