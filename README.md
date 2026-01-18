@@ -22,11 +22,11 @@ This repo records my daily Java learning journey, including:
 
 📊 Learning Stats
 
-🔥 Current Streak: Day 51/365
+🔥 Current Streak: Day 52/365
 
-📦 Total Commits: 63 (approx.)
+📦 Total Commits: 66 (approx.)
 
-⏳ Total Learning Time: ~40.3h
+⏳ Total Learning Time: ~41h
 
 🧭 Current Stage: Collections Framework + Console CRUD Mini Projects (Consolidation Phase, focusing on data structures, traversal, and safe modification)
 
@@ -89,6 +89,7 @@ This repo records my daily Java learning journey, including:
 | Day49 | 01/15 | Prerequisites: Varargs & Collections Utility | ✔ | Reviewed prerequisite concepts including varargs (int... args) semantics and the Collections utility class; clarified usage scenarios and common patterns as preparation for deeper Collection and Stream usage |  
 | Day50 | 01/16 | Collections review: List & Set | ✔ | Reviewed core Collection concepts with focus on List and Set; consolidated differences in structure, ordering, duplication rules, traversal methods, and typical usage scenarios |  
 | Day51 | 01/17 | File & IO overview | ✔ | Learned basic usage of File for file/directory operations and gained an overview of Java IO streams for reading and writing files; focused on conceptual understanding rather than hands-on coding |  
+| Day52 | 01/18 | Dou Dizhu demo (OOP + Collections) | ✔ | Built a simplified Dou Dizhu game demo using OOP design; defined Card and Room classes, generated a 54-card deck with suits and ranks, shuffled with Collections.shuffle, dealt cards with bottom cards reserved for the landlord, and sorted each hand using Collections.sort |  
 
 🧩 Featured Mini Projects  
 🥗 1. Healthy BMI Calculator
