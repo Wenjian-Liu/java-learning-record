@@ -128,7 +128,17 @@ Focus: procedural refactoring → method extraction → basic layering awareness
 ArrayList storage  
 Add / remove / update / query / list  
 Simple menu loop + Scanner input  
-📂 code/collections/movie-system/
+📂 code/collections/movie-system/  
+
+🃏 5. Dou Dizhu (斗地主) Console Demo
+A simplified console-based Dou Dizhu game demo focusing on object-oriented design and Collections framework usage.  
+Designed Card and Room classes to separate card modeling and game flow logic  
+Built a 54-card deck (suits + ranks + jokers) using ArrayList  
+Implemented shuffling via Collections.shuffle()  
+Dealt cards with 3 bottom cards reserved and assigned to the landlord  
+Sorted each player’s hand using Collections.sort() based on card weight  
+📂 code/collections/gamedemo/  
+Focus: OOP modeling, collection manipulation, sorting rules, and end-to-end process organization.
 
 
 🎯 Roadmap (2025–2027)
