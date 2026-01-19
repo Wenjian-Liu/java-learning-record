@@ -28,7 +28,8 @@ This repo records my daily Java learning journey, including:
 
 ⏳ Total Learning Time: ~41.6h
 
-🧭 Current Stage: Collections Framework + Console CRUD Mini Projects (Consolidation Phase, focusing on data structures, traversal, and safe modification)
+🧭 Current Stage: Collections Framework + Console CRUD Mini Projects (Consolidation Phase, focusing on data structures, traversal, and safe modification)  
+Emphasis on understanding Java behavior at runtime, object contracts, collection traversal safety, and basic design reasoning through console-based projects.
 
 🛠 Tech Route: Core Java → MySQL/JDBC → Spring Boot → Backend Projects
 
