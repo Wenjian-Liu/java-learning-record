@@ -22,7 +22,7 @@ This repo records my daily Java learning journey, including:
 
 📊 Learning Stats
 
-🔥 Current Streak: Day 56/365
+🔥 Current Streak: Day 57/365
 
 📦 Total Commits: 69 (approx.)
 
@@ -95,6 +95,7 @@ Emphasis on understanding Java behavior at runtime, object contracts, collection
 | Day54 | 01/20 | Rest Day (Health Recovery) | ✔ | Took a full rest day due to illness; no Java study today, prioritized physical recovery to maintain long-term learning continuity |  
 | Day55 | 01/21 | Recursion Basics & Infinite Recursion | ✔ | Learned the concept of recursion, basic recursive structure (method self-call + termination condition), and understood causes and risks of infinite recursion through examples |  
 | Day56 | 01/22 | Recursion Practice: Factorial & Sum | ✔ | Practiced recursion by implementing factorial calculation and sum from 1 to n; reinforced recursive structure and termination conditions through hands-on coding |  
+| Day57 | 01/23 | Rest Day | ✔ | No Java study today; took a rest day to recover and maintain learning sustainability |  
 
 🧩 Featured Mini Projects  
 🥗 1. Healthy BMI Calculator
