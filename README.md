@@ -22,11 +22,11 @@ This repo records my daily Java learning journey, including:
 
 📊 Learning Stats
 
-🔥 Current Streak: Day 59/365
+🔥 Current Streak: Day 61/365
 
-📦 Total Commits: 69 (approx.)
+📦 Total Commits: 71 (approx.)
 
-⏳ Total Learning Time: ~42.2h
+⏳ Total Learning Time: ~43h
 
 🧭 Current Stage: Collections Framework + Console CRUD Mini Projects (Consolidation Phase, focusing on data structures, traversal, and safe modification)  
 Emphasis on understanding Java behavior at runtime, object contracts, collection traversal safety, and basic design reasoning through console-based projects.
@@ -98,6 +98,7 @@ Emphasis on understanding Java behavior at runtime, object contracts, collection
 | Day57 | 01/23 | Rest Day | ✔ | No Java study today; took a rest day to recover and maintain learning sustainability |  
 | Day59 | 01/24 | Rest Day | ✔ | No Java study today due to personal schedule; maintained continuity in the learning log |  
 | Day60 | 01/25 | Rest Day | ✔ | No Java study today due to personal schedule; learning log kept up to date |  
+| Day61 | 01/26 | Method Recursion & File IO | ✔ | Finished Monkey Peach problem and recursive file search (qq.exe) |  
 
 🧩 Featured Mini Projects  
 🥗 1. Healthy BMI Calculator
