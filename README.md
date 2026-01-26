@@ -18,18 +18,20 @@ This repo records my daily Java learning journey, including:
 
 🔹 Gradual Progress Toward Spring Boot & Backend Development
 
+Bridging the gap between Legal Compliance and Backend Development.
+
 我的目标是 365 天坚持写代码，积累扎实的后端基础，为未来的就业与技术路线做准备。
 
 📊 Learning Stats
 
 🔥 Current Streak: Day 61/365
 
-📦 Total Commits: 71 (approx.)
+📦 Total Commits: 71+
 
 ⏳ Total Learning Time: ~43h
 
-🧭 Current Stage: Collections Framework + Console CRUD Mini Projects (Consolidation Phase, focusing on data structures, traversal, and safe modification)  
-Emphasis on understanding Java behavior at runtime, object contracts, collection traversal safety, and basic design reasoning through console-based projects.
+🧭 Current Stage: Collections Framework & Console-based Logic
+   - Focus: Object Contracts (equals/hashCode), Memory Management awareness, and Traversal Safety.
 
 🛠 Tech Route: Core Java → MySQL/JDBC → Spring Boot → Backend Projects
 
@@ -46,7 +48,7 @@ Emphasis on understanding Java behavior at runtime, object contracts, collection
 | Day5 | 12/02 | Operators Review | ✔ | Logical / Relational / Ternary |  
 | Day6 | 12/03 | switch Statement | ✔ | Basic + Arrow Syntax |  
 | Day7 | 12/04 | Mini Project — Healthy BMI | ✔ | HeimaHealthy.java initial version |  
-| Day8 | 12/05 | 重构 BMI（黑马01） | ✔ | Improved structure |  
+| Day8 | 12/05 | Refactored BMI (Logic decoupling)（黑马01） | ✔ | Improved structure |  
 | Day9 | 12/06 | LeetCode - Roman to Integer (LC013) | ✔ | Solved independently |  
 | Day10 | 12/07 | 封装优化 BMI | ✔ | Extracted methods |  
 | Day11 | 12/08 | 输入封装 + switch 优化 | ✔ | readValue 方法 |  
@@ -103,7 +105,8 @@ Emphasis on understanding Java behavior at runtime, object contracts, collection
 🧩 Featured Mini Projects  
 🥗 1. Healthy BMI Calculator
 
-初步实现 ➜ 重构 ➜ 封装优化  
+Initial Implementation ➜ Refactoring ➜ Encapsulation Optimization  
+
 一个完整的控制台应用，包含：
 
 输入验证
@@ -118,7 +121,7 @@ BMR / TDEE 计算
 
 营养配比建议  
 Focus: procedural refactoring → method extraction → basic layering awareness  
-📂 code/basics/HeimaHealthy.java
+[📂 View Code](./code/basics/HeimaHealthy.java)
 
 🔢 2. Max of Three Numbers
 
