@@ -102,6 +102,7 @@ Bridging the gap between Legal Compliance and Backend Development.
 | Day60 | 01/25 | Rest Day | ✔ | No Java study today due to personal schedule; learning log kept up to date |  
 | Day61 | 01/26 | Method Recursion & File IO | ✔ | Finished Monkey Peach problem and recursive file search (qq.exe) |  
 | Day62 | 01/27 | Rest Day | ✔ | Recovering from illness; prioritized health over coding |  
+| Day63 | 01/29 | Rest Day | ✔ | Recovering from illness; prioritized health over coding |  
 
 🧩 Featured Mini Projects  
 🥗 1. Healthy BMI Calculator
